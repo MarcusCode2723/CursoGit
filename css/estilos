@@ -1,5 +1,7 @@
 body{
 
     background-color: color:#00F;
+    font-weight : bold;
+    color:#F00;
 
 }
